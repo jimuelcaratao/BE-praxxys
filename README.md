@@ -9,7 +9,7 @@
 
 ## Run this project
 
--   `git clone https://gitlab.com/ecaratao/hcm-recruitment.git`
+-   `git clone https://github.com/jimuelcaratao/BE-praxxys.git`
 -   cd BE-praxxys
 -   composer install
 -   npm install
