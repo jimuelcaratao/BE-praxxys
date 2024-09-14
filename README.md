@@ -1,11 +1,13 @@
 # BE-praxxys
 
-## Stack used
+## Stack and plugins used
 
 -   Tailwind CSS - Front end (CSS)
--   VueJS - Front end (JS)
+-   Flowbite
+-   VueJS 3 - Front end (JS)
 -   InertiaJS
 -   Laravel Breeze
+-   laravel-vue-pagination
 
 ## Run this project
 
@@ -20,4 +22,3 @@
 -   php artisan serve
 -   npm run dev
 -   run to browser - http://127.0.0.1:8000/
-
