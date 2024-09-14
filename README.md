@@ -18,7 +18,7 @@
 -   create a database in your phpMyAdmin or other tool with the same name in the .env file (be_praxxys)
 -   php artisan migrate
 -   php artisan storage:link
--   php artisan db:seed --class=UserSeeder (for local seeder check creds here-> database\seeders\UserSeeder.php)
+-   php artisan db:seed
 -   php artisan serve
 -   npm run dev
 -   run to browser - http://127.0.0.1:8000/
